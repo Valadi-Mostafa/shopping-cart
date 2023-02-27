@@ -1,1 +1,1 @@
-<a href="https://react-app-shopping-cart.netlify.app" target="_blank"> Shopping cart </a>
+View online project<a href="https://react-app-shopping-cart.netlify.app" target="_blank"> Shopping cart </a>
